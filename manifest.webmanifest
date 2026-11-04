@@ -1,0 +1,14 @@
+{
+  "name": "FastClick - обучение скоропечатанию",
+  "short_name": "FastClick",
+  "description": "Слепая десятипальцевая печать: курс, тесты скорости, тренажёр слабых клавиш",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#5b5bf0",
+  "lang": "ru",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
